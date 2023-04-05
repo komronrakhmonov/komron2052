@@ -9,6 +9,14 @@
   </div>
 </div>
 
+[![Komron's GitHub stats](https://github-readme-stats.vercel.app/api?username=komron2052&show_icons=true&theme=tokyonight)](https://github.com/komron2052)
+
+### Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### GitHub Contributions
+[![Komron's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=komron2052&theme=tokyonight)](https://github.com/komron2052)
 
 
 
