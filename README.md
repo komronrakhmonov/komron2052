@@ -6,7 +6,7 @@
 <p align="center">
     <a href="https://github.com/komron2052/readme-typing-svg">
         <img
-                src="https://readme-typing-svg.herokuapp.com/?lines=DotNet%20Engineer%20Developer;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
+                src="https://readme-typing-svg.herokuapp.com/?lines=.NET%20Engineer%20Developer;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
 </p>
 
 
